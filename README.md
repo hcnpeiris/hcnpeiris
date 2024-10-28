@@ -16,6 +16,6 @@ I'm an undergraduate in Chemistry with a passion for Computer Science.
 - **Email:** [hcnpeiris@gmail.com](mailto:hcnpeiris@gmail.com)
 
 ## 📈 Stats
-![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcnpeiris&show_icons=true&theme=radical)
 
 
