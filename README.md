@@ -15,7 +15,7 @@ I'm an undergraduate Chemistry student / web developer with a passion for Comput
 
 
 ## Reach me:
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/hcn-peiris)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hcn-peiris)
 - **Email:** [hcnpeiris@gmail.com](mailto:hcnpeiris@gmail.com)
 
 
