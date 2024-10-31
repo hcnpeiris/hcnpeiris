@@ -5,7 +5,7 @@ I'm an undergraduate in Chemistry and web developer with a passion for Computer 
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/google-cybersecurity-certificate.png?raw=true" width="100" alt="Google Cybersecurity Certificate">
 </a>
 <a href="https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url">
-    <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/qgss2024.png?raw=true" width="100" alt="Google Cybersecurity Certificate">
+    <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/qgss2024.png?raw=true" width="90" alt="Google Cybersecurity Certificate">
 </a>
 
 
