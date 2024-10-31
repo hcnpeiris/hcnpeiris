@@ -2,7 +2,8 @@
 
 ## About Me
 I'm an undergraduate in Chemistry and web developer with a passion for Computer Science.
-[![](https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url)](https://www.credly.com)
+[![Google Cybersecurity Certificate](https://github.com/hcnpeiris/hcnpeiris/blob/main/google-cybersecurity-certificate.png)](https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url)
+
 
 ## Skills
 - **Languages:** Python, JavaScript,
