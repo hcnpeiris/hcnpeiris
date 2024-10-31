@@ -8,7 +8,7 @@ I'm an undergraduate in Chemistry and web developer with a passion for Computer 
 - **Frameworks:** Django, Qiskit, Tailwindd
 
 
-## 📫 How to reach me:
+## Reach me:
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/hcn-peiris)
 - **Email:** [hcnpeiris@gmail.com](mailto:hcnpeiris@gmail.com)
 
