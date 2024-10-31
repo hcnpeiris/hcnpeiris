@@ -1,5 +1,5 @@
 # Hi there, I'm Nipun Peiris!
-I'm an undergraduate Chemistry studen / web developer with a passion for Computer Science.
+I'm an undergraduate Chemistry student / web developer with a passion for Computer Science.
 ## 
 <a href="https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url">
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/google-cybersecurity-certificate.png?raw=true" width="100" alt="Google Cybersecurity Certificate">
