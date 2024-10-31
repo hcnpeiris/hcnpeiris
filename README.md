@@ -3,9 +3,9 @@
 ## About Me
 I'm an undergraduate in Chemistry and web developer with a passion for Computer Science.
 
-## 🛠 Skills
-- **Languages:** Python, JavaScript, C#
-- **Frameworks:** Django, Flask
+## Skills
+- **Languages:** Python, JavaScript,
+- **Frameworks:** Django, Qiskit, Tailwindd
 
 
 ## 📫 How to reach me:
