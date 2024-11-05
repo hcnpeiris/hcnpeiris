@@ -5,9 +5,11 @@ I'm an undergraduate Chemistry student / web developer with a passion for Comput
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/google-cybersecurity-certificate.png?raw=true" width="100" alt="Google Cybersecurity Certificate">
 </a>
 <a href="https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url">
-    <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/qgss2024.png?raw=true" width="90" alt="Google Cybersecurity Certificate">
+    <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/qgss2024.png?raw=true" width="90" alt="QGSS 2024 Quantum Excellence">
 </a>
-
+<a href="https://www.credly.com/badges/339e4361-17e8-4672-bc78-ba1ce449cb9f/public_url">
+    <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/qinfo.png?raw=true" width="90" alt="Basics of Quantum Information">
+</a>
 
 ## Skills
 - **Languages:** Python, JavaScript,
