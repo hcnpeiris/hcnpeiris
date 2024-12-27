@@ -10,6 +10,9 @@ I'm an undergraduate Chemistry student / web developer with a passion for Comput
 <a href="https://www.credly.com/badges/339e4361-17e8-4672-bc78-ba1ce449cb9f/public_url">
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/qinfo.png?raw=true" width="90" alt="Basics of Quantum Information">
 </a>
+<a href="https://www.credly.com/badges/7a9da085-89e5-49ed-a74e-ad0df435ade5/public_url">
+    <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/practical-introduction-to-quantum-safe-cryptography.png?raw=true" width="90" alt="Basics of Quantum Information">
+</a>
 
 ## Skills
 - **Languages:** Python, JavaScript,
