@@ -15,8 +15,8 @@ I'm an undergraduate Chemistry student / web developer with a passion for Comput
 </a>
 
 ## Skills
-- **Languages:** Python, JavaScript,Rust
-- **Frameworks:** Django, Qiskit, Tailwind
+- **Languages:** Python, Bash, JavaScript, Rust
+- **Frameworks:** Django, Qiskit
 
 
 ## Reach me:
