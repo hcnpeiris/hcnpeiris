@@ -1,12 +1,17 @@
 # Hi there, I'm Nipun Peiris!
-I'm an undergraduate Chemistry student / web developer with a passion for Computer Science.
+I'm an self-employed web developer with a passion for Cyber Security.
 
-## Personal Best Rank
-Achieved on 26/01/2025 HTB Hall of Fame.
+# 437
+Personal Best Rank on HTB 
+Achieved on 26/01/2025 
 
-### Pro Hacker Rank
-![HTB Pro Hacker](https://github.com/hcnpeiris/hcnpeiris/blob/main/htb-pro-hacker.png?raw=true)
-Earned on: 06 Dec 2024 
+## Skills
+- **Languages:** Python, Bash, JavaScript, Rust
+- **Frameworks:** Django, Qiskit
+
+## Reach me:
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hcn-peiris)
+- **Email:** [hcnpeiris@gmail.com](mailto:hcnpeiris@gmail.com)
 
 ## 
 <a href="https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url">
@@ -22,12 +27,8 @@ Earned on: 06 Dec 2024
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/practical-introduction-to-quantum-safe-cryptography.png?raw=true" width="90" alt="Basics of Quantum Information">
 </a>
 
-## Skills
-- **Languages:** Python, Bash, JavaScript, Rust
-- **Frameworks:** Django, Qiskit
 
-## Reach me:
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hcn-peiris)
-- **Email:** [hcnpeiris@gmail.com](mailto:hcnpeiris@gmail.com)
-
+### Pro Hacker Rank
+![HTB Pro Hacker](https://github.com/hcnpeiris/hcnpeiris/blob/main/htb-pro-hacker.png?raw=true)
+Earned on: 06 Dec 2024 
 
