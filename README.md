@@ -1,9 +1,5 @@
 # Hi there, I'm Nipun Peiris!
-I'm an self-employed web developer with a passion for Cyber Security.
-
-# 437
-Personal Best Rank on HTB 
-Achieved on 26/01/2025 
+I'm an self-employed web developer with a passion for Cyber Security. 
 
 ## Skills
 - **Languages:** Python, Bash, JavaScript, Rust
@@ -12,6 +8,9 @@ Achieved on 26/01/2025
 ## Reach me:
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hcn-peiris)
 - **Email:** [hcnpeiris@gmail.com](mailto:hcnpeiris@gmail.com)
+
+437 rd on HTB Personal Best Rank
+Achieved on 26/01/2025
 
 ## 
 <a href="https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url">
