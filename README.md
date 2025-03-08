@@ -9,9 +9,6 @@ I'm an self-employed web developer with a passion for Cyber Security.
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hcn-peiris)
 - **Email:** [hcnpeiris@gmail.com](mailto:hcnpeiris@gmail.com)
 
-437 rd on HTB Personal Best Rank
-Achieved on 26/01/2025
-
 ## 
 <a href="https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url">
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/google-cybersecurity-certificate.png?raw=true" width="100" alt="Google Cybersecurity Certificate">
@@ -26,6 +23,8 @@ Achieved on 26/01/2025
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/practical-introduction-to-quantum-safe-cryptography.png?raw=true" width="90" alt="Basics of Quantum Information">
 </a>
 
+### 437 rd on HTB Personal Best Rank
+(Achieved on 26/01/2025)
 
 ### Pro Hacker Rank
 ![HTB Pro Hacker](https://github.com/hcnpeiris/hcnpeiris/blob/main/htb-pro-hacker.png?raw=true)
