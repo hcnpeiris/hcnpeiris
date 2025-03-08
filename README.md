@@ -1,5 +1,5 @@
 # Hi there, I'm Nipun Peiris!
-I'm an self-employed web developer with a passion for Cyber Security. 
+I'm a self-employed web developer with a passion for cybersecurity. 
 
 ## Skills
 - **Languages:** Python, Bash, JavaScript, Rust
@@ -23,7 +23,7 @@ I'm an self-employed web developer with a passion for Cyber Security.
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/practical-introduction-to-quantum-safe-cryptography.png?raw=true" width="90" alt="Basics of Quantum Information">
 </a>
 
-### 437 rd on HTB Personal Best Rank
+### 437 th on HTB Personal Best Rank
 (Achieved on 26/01/2025)
 
 ### Pro Hacker Rank
