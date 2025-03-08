@@ -1,5 +1,13 @@
 # Hi there, I'm Nipun Peiris!
 I'm an undergraduate Chemistry student / web developer with a passion for Computer Science.
+
+## Personal Best Rank
+Achieved on 26/01/2025 HTB Hall of Fame.
+
+### Pro Hacker Rank
+![HTB Pro Hacker](https://github.com/hcnpeiris/hcnpeiris/blob/main/htb-pro-hacker.png?raw=true)
+Earned on: 06 Dec 2024 (Rarity: 0.59% of users)
+
 ## 
 <a href="https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url">
     <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/google-cybersecurity-certificate.png?raw=true" width="100" alt="Google Cybersecurity Certificate">
@@ -18,10 +26,8 @@ I'm an undergraduate Chemistry student / web developer with a passion for Comput
 - **Languages:** Python, Bash, JavaScript, Rust
 - **Frameworks:** Django, Qiskit
 
-
 ## Reach me:
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hcn-peiris)
 - **Email:** [hcnpeiris@gmail.com](mailto:hcnpeiris@gmail.com)
-
 
 
