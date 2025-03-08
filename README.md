@@ -6,7 +6,7 @@ Achieved on 26/01/2025 HTB Hall of Fame.
 
 ### Pro Hacker Rank
 ![HTB Pro Hacker](https://github.com/hcnpeiris/hcnpeiris/blob/main/htb-pro-hacker.png?raw=true)
-Earned on: 06 Dec 2024 (Rarity: 0.59% of users)
+Earned on: 06 Dec 2024 
 
 ## 
 <a href="https://www.credly.com/badges/3c54800b-5062-4c66-a248-15849449dc93/public_url">
