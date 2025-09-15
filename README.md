@@ -32,6 +32,6 @@ I'm a self-employed web developer with a passion for cybersecurity.
 (Achieved on 26/01/2025)
 
 ### Pro Hacker Rank
-![HTB Pro Hacker](https://github.com/hcnpeiris/hcnpeiris/blob/main/htb-pro-hacker.png?raw=true)
+ <img src="https://github.com/hcnpeiris/hcnpeiris/blob/main/htb-pro-hacker.png?raw=true" width="400">
 Earned on: 06 Dec 2024 
 
